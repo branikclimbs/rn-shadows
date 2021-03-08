@@ -1,6 +1,6 @@
 {
   "name": "rn-shadows",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "shadow component for react native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -98,7 +98,7 @@
       "publish": true
     },
     "github": {
-      "release": true
+      "release": false
     },
     "plugins": {
       "@release-it/conventional-changelog": {
